@@ -108,4 +108,7 @@ Due to size constraints, raw data is not included. A sample or schema is provide
 * Causal inference on AI adoption and firm outcomes
 * Network analysis of firm–technology relationships
 
+## Topic Visualization
+
+![Topic Visualization](Images/AI Impact Quadrant.png)
 ---
