@@ -110,5 +110,5 @@ Due to size constraints, raw data is not included. A sample or schema is provide
 
 ## Topic Visualization
 
-![Topic Visualization](images/ai_impact_quadrant.png)
+![Topic Visualization](Images/ai_impact_quadrant.png)
 ---
